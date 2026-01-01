@@ -4,7 +4,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.1%2B-green)
 ![Spring Security](https://img.shields.io/badge/Security-JWT%20Auth-blueviolet)
 
-API RESTful para sistemas de fórum com autenticação de segura e controle de acesso.
+API RESTful para sistemas de fórum com autenticação de segurança e controle de acesso.
 
 ## ✨ Principais Recursos
 
